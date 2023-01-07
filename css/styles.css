@@ -80,3 +80,139 @@
 }
 
 /* My Plan Styles */
+
+.my-plans {
+  text-align: center;
+}
+
+.my-plans .sec-title {
+  margin-bottom: 50px;
+}
+
+.plans {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 150px;
+  margin-bottom: 80px;
+}
+
+.plan-title {
+  color: #151414;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+  margin-bottom: 10px;
+}
+
+.plan-sub {
+  color: #737272;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 29px;
+}
+
+/* Call Now Section Styles */
+
+.call-now {
+  background-image: url(/images/watch.png);
+  background-repeat: no-repeat;
+  height: 300px;
+  width: 60%;
+  margin: 80px auto 120px;
+}
+
+.call-now-items {
+  padding: 50px;
+}
+
+.call-now .call-now-items .sec-title {
+  color: #FFFFFF;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 55px;
+  margin-bottom: 30px;
+}
+
+.btn-secondary{
+  background: #FFFFFF;
+  border-radius: 5px;
+  width: auto;
+  border: none;
+  color: #F15B22;
+  font-weight: 600;
+  font-size: 20px;
+  padding: 16px;
+}
+
+/* Footer Styles */
+
+.footer-items {
+  background-color: #151414;
+  height: 450px;
+  color: #FFFFFF;
+  display: flex;
+  justify-content: center;
+  gap: 350px;
+
+}
+
+ .info-title {
+  color: #F8F8F8;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 53px;
+  margin-bottom: 16px;
+  margin-top: 80px;
+ }
+
+ .info-sub {
+  color: #FFFFFF;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  margin-bottom: 16px;
+ }
+
+ .email{
+  color: #FFFFFF;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  margin-bottom: 16px;
+ }
+
+ .phone {
+  color: #FFFFFF;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  margin-bottom: 20px;
+ }
+
+.social{
+  display: flex;
+  gap: 15px;
+}
+
+.subscribe .sec-title {
+  color:#FFFFFF;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 55px;
+  margin-bottom: 30px;
+  margin-top: 80px;
+}
+
+input[type=email] {
+  background-color: #151414;
+  border: 1px solid white;
+  color: white;
+  border-radius: 5px;
+  box-shadow: none;
+  width: 300px;
+  height: 53px;
+  outline: none;
+  padding-left: 15px;
+  margin-bottom: 20px;
+}
