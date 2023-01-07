@@ -112,10 +112,14 @@
   line-height: 29px;
 }
 
+.fa-check{
+  color: #16d886
+}
+
 /* Call Now Section Styles */
 
 .call-now {
-  background-image: url(/images/watch.png);
+  background: url(/images/gradient2.png), url(/images/watch.png);
   background-repeat: no-repeat;
   height: 300px;
   width: 60%;
@@ -200,7 +204,7 @@
   font-weight: 700;
   font-size: 40px;
   line-height: 55px;
-  margin-bottom: 30px;
+  margin-bottom: 16px;
   margin-top: 80px;
 }
 
@@ -216,3 +220,4 @@ input[type=email] {
   padding-left: 15px;
   margin-bottom: 20px;
 }
+
