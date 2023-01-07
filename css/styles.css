@@ -45,9 +45,9 @@
   padding: 16px;
 }
 
-/* Failure Section Styles */
+/* Achievement & Failure Section Styles */
 
-.failures {
+.category {
   display: flex;
   justify-content: center;
   align-items: center;
