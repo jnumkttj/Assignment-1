@@ -119,7 +119,7 @@
 /* Call Now Section Styles */
 
 .call-now {
-  background: url(/images/gradient2.png), url(/images/watch.png);
+  background: url(../images/gradient2.png), url(../images/watch.png);
   background-repeat: no-repeat;
   height: 300px;
   width: 60%;
